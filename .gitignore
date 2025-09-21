@@ -81,3 +81,6 @@ http-client.private.env.json
 
 .next
 node_modules
+/.idea/copilot.data.migration.agent.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
